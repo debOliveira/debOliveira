@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/48807586/124982916-adccaa00-e00d-11eb-8729-0dd9aaa0735b.png)
 
-Nice to meet you here! To update you:
-
 - 🔭 I’m currently working on **vision motion capture for UAVs**
 - 🌱 I’m currently learning _SLAM and calibration for intrisics and extrinsics_
 - 🤔 I’m looking for help with **calibration parameters for Intel RealSense**
