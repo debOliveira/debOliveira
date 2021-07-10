@@ -6,7 +6,7 @@
 - 💬 Ask me about drones, MATLAB, OpenCv! 
 
 [![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=debora.oliveira@ee.ufcg.edu.br&color=red)](mailto:debora.oliveira@ee.ufcg.edu.br)
-[![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=débora-oliveira-b395171b1&color=0072b1)](https://www.linkedin.com/in/d%C3%A9bora-oliveira-b395171b1/)
+[![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=Débora%20Oliveira&color=0072b1)](https://www.linkedin.com/in/d%C3%A9bora-oliveira-b395171b1/)
 
 ### my stats 📊
 
