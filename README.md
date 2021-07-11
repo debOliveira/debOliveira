@@ -6,9 +6,10 @@
 - 💬 Ask me about drones, MATLAB, OpenCv! 
 
 [![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=debora.oliveira@ee.ufcg.edu.br&color=red)](mailto:debora.oliveira@ee.ufcg.edu.br)
-[![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=Débora%20Oliveira&color=0072b1)](https://www.linkedin.com/in/d%C3%A9bora-oliveira-b395171b1/)
+[![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=Débora%20Oliveira&color=0072b1)](https://www.linkedin.com/in/d%C3%A9bora-oliveira-b395171b1/) 
 
-### my stats 📊
+
+### my stats 📊 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdebOliveira%2F&count_bg=%23AE98ED&title_bg=%23545151&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=debOliveira&theme=buefy&show_icons=1&count_private=1&include_all_commits=1&hide_title=1" alt="debOliveira" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debOliveira&langs_count=2&theme=buefy" alt="debOliveira" /> 
     
