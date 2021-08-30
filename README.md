@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on **vision motion capture for UAVs**
 - 🌱 I’m currently learning _SLAM and calibration for intrisics and extrinsics_
-- 🤔 I’m looking for help with **calibration parameters for Intel RealSense**
-- 💬 Ask me about drones, MATLAB, OpenCv! 
+- 🤔 I’m looking for help with **stereo triangulation**
+- 💬 Ask me about drones, MATLAB, OpenCV! 
 
 [![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=debora.oliveira@ee.ufcg.edu.br&color=red)](mailto:debora.oliveira@ee.ufcg.edu.br)
 [![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=Débora%20Oliveira&color=0072b1)](https://www.linkedin.com/in/d%C3%A9bora-oliveira-b395171b1/) 
