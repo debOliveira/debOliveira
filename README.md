@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/48807586/124982916-adccaa00-e00d-11eb-8729-0dd9aaa0735b.png)
 
-- 🔭 I’m currently working on **vision motion capture for UAVs**
-- 🌱 I’m currently learning _SLAM and calibration for intrisics and extrinsics_
+- 🔭 I’m currently working on **vision motion capture systems**
+- 🌱 I’m currently learning calibration for intrisics and extrinsics_
 - 🤔 I’m looking for help with **stereo triangulation**
 - 💬 Ask me about drones, MATLAB, OpenCV! 
 
