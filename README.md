@@ -1,8 +1,7 @@
 ![image](https://user-images.githubusercontent.com/48807586/124982916-adccaa00-e00d-11eb-8729-0dd9aaa0735b.png)
 
 - 🔭 I’m currently working on **vision motion capture systems**
-- 🌱 I’m currently learning calibration for intrisics and extrinsics_
-- 🤔 I’m looking for help with **stereo triangulation**
+- 🤔 I’m looking for help with calibration for intrisics and extrinsics
 - 💬 Ask me about drones, MATLAB, OpenCV! 
 
 [![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=debora.oliveira@ee.ufcg.edu.br&color=red)](mailto:debora.oliveira@ee.ufcg.edu.br)
